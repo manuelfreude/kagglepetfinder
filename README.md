@@ -23,8 +23,8 @@ Due to fragmented internet connectivity in South East Asia and a high amount of 
 
 ### Conclusion / further improvements
 
-The project, especially the data preparation part, shows how different real-life sources can be leveraged for sophisticated analytics. Well-defined neural networks might lead to a high value second-last image analyses step: determining which features are important for the Adoption speed prediction by the keras model. These features could be transferred in a separate dataset instead of using only the predicted Adoption speed.
+The project, especially the data preparation part, shows how different real-life sources can be leveraged for data analytics. Well-defined neural networks might lead to a high value second-last image analyses step: determining which features are important for the adoption speed prediction by the keras model. These features could be transferred in a separate variable instead of using only the "predicted Adoption speed from image analysis" variable.
 
-This was my first kaggle competition, its completion a big milestone, upon which I moved on to the Santander Customer Transaction prediction.
+Completing this first kaggle competition was a big milestone, upon which I moved on to the Santander Customer Transaction prediction.
 
 ![kaggle](https://github.com/manuelfreude/kagglepetfinder/blob/master/kaggle_dashboard_petfinder.png)
